@@ -1,0 +1,43 @@
+{
+  "slice_type": "price_slice",
+  "slice_label": null,
+  "items": [
+    {
+      "button_label": "Button one",
+      "button_link": {
+        "link_type": "Any"
+      }
+    },
+    {
+      "button_label": "Button two",
+      "button_link": {
+        "link_type": "Any"
+      }
+    }
+  ],
+  "primary": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "PRICE-SLICE",
+        "spans": []
+      }
+    ],
+    "description": [
+      {
+        "type": "paragraph",
+        "text": "some description here",
+        "spans": []
+      }
+    ],
+    "image": {
+      "dimensions": {
+        "width": 1950,
+        "height": 806
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.prismic.io/slice-machine-app/47ebab97-4da8-444f-a100-4ba0b847082f_2323.jpg?auto=compress,format"
+    }
+  }
+}
